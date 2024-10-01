@@ -2,7 +2,7 @@
     <Product ProductID="101">
         <Name>Smartphone</Name>
         <Category>Electronics</Category>
-        <Price>299.99</Price>
+        <Price>300.90</Price>
         <Stock>25</Stock>
     </Product>
     <Product ProductID="102">
